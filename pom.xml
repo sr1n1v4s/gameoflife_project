@@ -24,13 +24,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>devops-releases</name>
-        <url>http://localhost:8081/artifactory/wonder-women</url>
+        <name>ip-172-31-15-135-releases</name>
+        <url>http://34.212.159.198:8081/artifactory/gameoflife_repo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>devops-snapshots</name>
-        <url>http://localhost:8081/artifactory/wonder-women</url>
+        <name>ip-172-31-15-135-snapshots</name>
+        <url>http://34.212.159.198:8081/artifactory/gameoflife_repo</url>
     </snapshotRepository>
 </distributionManagement>
 
