@@ -33,7 +33,6 @@
         <url>http://34.212.159.198:8081/artifactory/gameoflife_repo</url>
     </snapshotRepository>
 </distributionManagement>
-
     <scm>
         <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
         <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
